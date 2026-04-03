@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-This project analyzes **customer behavior and retention over time** using cohort analysis on the Metabase sample dataset. Users are grouped by **signup month** to evaluate how different cohorts engage, generate revenue, and retain over time.
+This project analyzes **customer behavior and retention over time** using cohort analysis on the Metabase internal dataset. Users are grouped by **signup month** to evaluate how different cohorts engage, generate revenue, and retain over time.
 
 ---
 ## **View Dashboard**
