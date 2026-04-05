@@ -8,6 +8,7 @@ This project analyzes **customer behavior and retention over time** using cohort
 ## **View Dashboard**
 
 [Open Customer Cohort Analytics Dashboard](https://tailed-puffin.metabaseapp.com/public/dashboard/6c5d381f-d8e7-4652-8f3e-eb7dd682c203)
+Or check Dashboard PDF file in repo.
 
 ---
 
